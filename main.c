@@ -4,7 +4,18 @@
 #include "functions.h"
 #include <stdbool.h>
 #include <conio.h>
-
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
+//lock in gang
 
 int main(){
     printf("\n\n");
